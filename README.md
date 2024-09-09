@@ -12,7 +12,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;3RD YEAR%20%2F%20AIML;STUDENT%20in%20his%20PRE%20FINAL%20YEAR;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;3RD YEAR%20%2F%20AIML;Student%20in%20his%20PRE%20FINAL%20YEAR;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 
 
 <!-- Social icons section -->
