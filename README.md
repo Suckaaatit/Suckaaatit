@@ -1,4 +1,4 @@
-## HELLO THERE  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+## HELLO   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="center">
   <!-- Typing SVG by Suckaaatit - https://github.com/Suckaaatit/readme-typing-svg -->
