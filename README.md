@@ -40,11 +40,11 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />]
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="python logo" title="python" height="25" />]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />]
 &nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />]
+[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="vercel logo" title="vercel" height="25" />]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />]
 &nbsp;
