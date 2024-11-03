@@ -1,5 +1,5 @@
 ## HELLO THERE  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-from the screen to the ring to the pen
+
 <p align="center">
   <!-- Typing SVG by Suckaaatit - https://github.com/Suckaaatit/readme-typing-svg -->
   <a href="https://github.com/Suckaaatit/readme-typing-svg">
