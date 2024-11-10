@@ -37,7 +37,7 @@ ye
 
 
 
-## 📖  What I am currently learning / improving on
+## 📖  What I am currently learning/improving on
 
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />]
 &nbsp;
@@ -64,9 +64,6 @@ ye
 
 ### Visitors
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/agni27/count.svg?"  />
-</div>
 
 
 
